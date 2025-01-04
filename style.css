@@ -39,7 +39,7 @@ body {
 
 .clock span:not(:last-child):after {
     content: ':';
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
     color: var(--color-light);
 }
 
@@ -51,7 +51,6 @@ h2 strong {
 
 @media screen and (max-width: 1020px) {
     .clock {
-        display: flex;
         gap: 1rem;
     }
 
@@ -60,11 +59,6 @@ h2 strong {
         display: flex;
         gap: 1rem;
         align-items: center;
-    }
-
-    .clock span:not(:last-child):after {
-        content: ':';
-        margin-bottom: 0.5rem;
     }
 
     h2 {
