@@ -1,4 +1,4 @@
-# Relógio Digital
+# ⏰ Relógio Digital
 
 Este é um projeto de estudo que apresenta um site simples para exibir a hora atual com minutos e segundos. 
 O projeto foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript**.
@@ -18,10 +18,10 @@ O código é organizado em três partes principais:
 - Atualiza os valores automaticamente a cada segundo.
 - Interface simples e responsiva.
 
-## Demonstração
+## 🔗 Demonstração
 Acesse o projeto [aqui](https://felipeoliveiracode.github.io/relogio-digital/).
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ### HTML
 O arquivo HTML define a estrutura da página, incluindo os elementos do relógio (`<span>` para horas, minutos e segundos):
@@ -65,7 +65,7 @@ setInterval(newTime, 1000);
 - **`setInterval`**: Atualiza o relógio a cada segundo.
 
 
-## Autor
+## 👨‍💻 Autor
 Desenvolvido por [Felipe Oliveira](https://www.linkedin.com/in/felipeoliveiracode/).
 
 ---
